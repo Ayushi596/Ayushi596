@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayushi! 
 
-I am an **AI Student** with an **8.93 CGPA**. I love taking the power of Artificial Intelligence and applying it to real-world engineering—like 3D modeling and physics simulations!
+I am an **AI Student** with an **8.93 CGPA**. I love taking the power of Artificial Intelligence and applying it to real-world engineering like 3D modeling and physics simulations!
 
 ---
 
