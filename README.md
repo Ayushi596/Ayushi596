@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/13988308300268300064" width="600" alt="Lofi Coding Aesthetic" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Lofi Coding Aesthetic" />
 </p>
 
 ---
