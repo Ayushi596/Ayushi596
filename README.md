@@ -1,7 +1,7 @@
-# **Hi, I am Ayushi**
+# **Hi, I am Ayushi!**
 
 # 💫 About Me:
-I am an AI student driven by a curiosity for how machine learning can solve problems across different fields. While I am building my foundation in Deep Learning, I am particularly interested in interdisciplinary AI—exploring how neural networks can interact with the physical world and bridge the gap between different types of data, like vision and language. I’m currently focused on moving from theory to practice, learning how to build models that are both technically sound and practically useful.
+I am an AI student driven by a curiosity for how machine learning can solve problems across different fields. While I am building my foundation in Deep Learning, I am particularly interested in interdisciplinary AI, exploring how neural networks can interact with the physical world and bridge the gap between different types of data, like vision and language. I’m currently focused on moving from theory to practice, learning how to build models that are both technically sound and practically useful.
 
 
 ## 🌐 Socials:
