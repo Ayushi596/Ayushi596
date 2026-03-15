@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi, I'm Ayushi! 👋&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@ projects:
   - Blender CFD Toolkit: Automating 3D CAD to OpenFOAM workflows.
   - Stock Trend Prediction: Comparative analysis using LSTM and Bi-LSTM models.
   - Image Captioning Model: Developing vision-to-language deep learning architectures.
+
+```
 
 ---
 
