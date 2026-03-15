@@ -1,56 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi, I'm Ayushi! 👋&animation=fadeIn&type=waving&color=gradient&height=120"/>
-</p>
+# 💫 About Me:
+I am an AI student driven by a curiosity for how machine learning can solve problems across different fields. While I am building my foundation in Deep Learning, I am particularly interested in interdisciplinary AI—exploring how neural networks can interact with the physical world and bridge the gap between different types of data, like vision and language. I’m currently focused on moving from theory to practice, learning how to build models that are both technically sound and practically useful.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="AI Development Aesthetic" />
-</p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayushi-k-082ba7318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushi1509vit@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayushi596&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayushi596&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi596&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ayushi596&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧬 Professional Profile
-```yaml
-identity:
-  role: AI Engineering Student | Aspiring Researcher
-  education: Integrated M.Tech in Artificial Intelligence
-  metrics: Cumulative GPA 8.93
-expertise:
-  - Deep Learning (CNN, LSTM, Bi-LSTM)
-  - Multi-Modal AI & Computer Vision
-  - Autonomous Agent Architecture (LangChain, FastAPI)
-  - Physics-Informed Machine Learning
-
-```
-🚀 Featured AI Projects
-Multi-Modal Image Captioning: Implementing vision-to-language architectures using CNN and LSTM for automated descriptive text generation.
-
-Predictive Analytics: Comparative performance analysis of sequential neural networks (LSTM, Bi-LSTM) for high-accuracy financial forecasting.
-
-Autonomous AI Agents: Designing real-time tool-integrated agents using LangChain, FastAPI, and Streamlit for automated workflow management.
-
-Blender CFD Toolkit: Developing a Python-based bridge for automating 3D CAD to OpenFOAM workflows.
-
-🛠️ Technical Stack
-<p align="left">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="pytorch" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="bash" />
-</p>
-
-📈 Contribution History
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAyushi596%26show_icons%3Dtrue%26theme%3Dradical" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAyushi596%26layout%3Dcompact%26theme%3Dradical" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dgradient%26height%3D2%26section%3Dfooter"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
